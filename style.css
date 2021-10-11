@@ -1,0 +1,40 @@
+body{
+   background-color: rgb(158, 253, 221);
+
+}
+
+img{ 
+    border-radius: 50%;
+    height: 170px;
+    width: 180px;
+
+}
+
+h1{
+    font-size: 70px;
+    font-family: sans-serif;
+
+}
+
+h4{
+    font-size: 25px;
+    font-family: sans-serif;
+
+}
+ol{
+    font-size: 50px;
+    font-family: sans-serif;
+
+}
+li{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(158, 253, 221);
+
+}
+
+
+
